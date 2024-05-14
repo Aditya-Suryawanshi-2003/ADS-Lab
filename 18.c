@@ -1,3 +1,4 @@
+//18.	Write a Program to implement Prim’s algorithm to find minimum spanning tree of a user defined graph. Use Adjacency Matrix to represent a graph.
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

@@ -1,3 +1,4 @@
+//22.	WAP to convert a given Infix expression into its equivalent Postfix expression and evaluate it using stack.
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>

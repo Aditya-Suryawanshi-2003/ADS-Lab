@@ -1,3 +1,6 @@
+//5.	Write a program to illustrate operations on a BST holding numeric keys. The menu must include: • Insert • Mirror Image • Find • Post order (nonrecursive)
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

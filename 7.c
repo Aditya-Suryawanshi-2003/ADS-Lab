@@ -1,3 +1,4 @@
+//7.	Write a Program to create a Binary Search Tree and perform following nonrecursive operations on it. a. Preorder Traversal b. Postorder Traversal c. Display total Number of Nodes d. Display Leaf nodes.
 #include <stdio.h>
 #include <stdlib.h>
 

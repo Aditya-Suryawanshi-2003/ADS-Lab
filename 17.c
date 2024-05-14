@@ -1,3 +1,4 @@
+//17.	Write a Program to accept a graph from user and represent it with Adjacency List and perform BFS and DFS traversals on it.
 #include <stdio.h>
 #include <stdlib.h>
 
