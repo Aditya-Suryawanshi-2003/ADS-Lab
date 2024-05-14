@@ -1,3 +1,4 @@
+//Write a Program to implement circular queue where user can add and remove the elements from rear and front end of the queue
 #include <stdio.h>
 #include <stdlib.h>
 

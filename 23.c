@@ -1,3 +1,4 @@
+//23.	WAP to implement stack using a singly linked list and perform following operations on it. A. PUSH, B. POP, C. StackeEmpty D. Display Stack.
 #include <stdio.h>
 #include <stdlib.h>
 

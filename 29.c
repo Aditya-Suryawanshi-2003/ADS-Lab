@@ -1,3 +1,4 @@
+//WAP to create doubly linked list and perform following operations on it. A) Insert (all cases) 2. Delete (all cases).
 #include <stdio.h>
 #include <stdlib.h>
 

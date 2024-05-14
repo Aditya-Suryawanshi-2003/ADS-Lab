@@ -1,3 +1,4 @@
+//12.	Write a Program to create Inorder Threaded Binary Tree and Traverse it in Preorder way.
 #include <stdio.h>
 #include <stdlib.h>
 

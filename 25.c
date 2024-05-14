@@ -1,3 +1,4 @@
+//25.	WAP to implement a linear queue using a singly linked list and perform following operations on it. A. enqueue, B. dequeue, C. QueueEmpty, D. Display queue, E. Display Front element, F. Display Rear element
 #include <stdio.h>
 #include <stdlib.h>
 

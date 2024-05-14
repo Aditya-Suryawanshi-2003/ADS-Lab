@@ -1,3 +1,4 @@
+//10.	Write a Program to create a Binary Search Tree and display its mirror image with and without disturbing the original tree. Also display height of a tree using nonrecursion.
 #include <stdio.h>
 #include <stdlib.h>
 

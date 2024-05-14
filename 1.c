@@ -1,3 +1,5 @@
+//1.	Write a Program to create a Binary Tree and perform following nonrecursive operations on it. a. Preorder Traversal, b. Postorder Traversal, c. Count total no. of nodes, d. Display height of a tree.
+
 #include <stdio.h>
 #include <stdlib.h>
 

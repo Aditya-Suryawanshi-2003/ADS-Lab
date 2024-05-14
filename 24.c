@@ -1,3 +1,4 @@
+//24.	WAP to implement following by using stack. A. Factorial of a given number B. Generation of Fibonacci series.
 #include <stdio.h>
 #include <stdlib.h>
 

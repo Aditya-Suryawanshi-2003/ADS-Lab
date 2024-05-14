@@ -1,3 +1,5 @@
+//4.	Write a program to illustrate operations on a BST holding numeric keys. The menu must include: • Insert • Delete • Find • display in Inorder way
+
 #include <stdio.h>
 #include <stdlib.h>
 
